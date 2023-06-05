@@ -1,0 +1,19 @@
+Boto3
+
+- Boto3 is the name of python sdk for aws or you can say it is a module, library or API to work with AWS services using Python Scripts.
+
+- Using Boto3 we can create, delete and update AWS Service.
+
+- Boto3 can be executed from local server or using aws lambda service.
+
+- If we have to work with AWS service using python we have to install boto3.
+
+install boto3
+- sudo apt install python3
+- sudo pip install boto3
+
+check boto3 version
+- pip3 show boto3 
+
+AKIAZN6YOMGCXEX53M65
+XJZjQUbhHn1t7qsEg+N0/NSlhMR4xSK5coHnKd8/ 
